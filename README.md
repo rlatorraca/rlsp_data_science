@@ -71,6 +71,7 @@ This portfolio reflects my growth, curiosity, and commitment to continuous impro
 
 ### 📬 Contact
 
-Feel free to reach out if you’d like to collaborate or discuss ideas.
+* [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rlatorraca)&nbsp;
+* [![Email](mailto:rlatorraca@gmail.com)
 
 
